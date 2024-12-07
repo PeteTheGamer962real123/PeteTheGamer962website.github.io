@@ -1,0 +1,31 @@
+.Topcontent
+{
+    background-color: rgb(126, 126, 126);
+    text-align: center;
+    font-size: 70%;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.content
+{
+    background-color: rgb(83, 83, 83);
+    color: rgb(255, 255, 255);
+    text-align: center;
+}
+
+.basecontent
+{
+    font-family: 'Courier New', Courier, monospace;
+    margin: 2%;
+}
+
+.basecontent
+{
+    font-family: 'Courier New', Courier, monospace;
+    margin: 2%;
+}
+
+body
+{
+    background-color: rgb(189, 189, 189);
+}
